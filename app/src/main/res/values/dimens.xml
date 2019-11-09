@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_text">18sp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="item_width">93dp</dimen>
+    <dimen name="item_height">93dp</dimen>
+    <dimen name="small_width">33dp</dimen>
+    <dimen name="small_height">33dp</dimen>
+</resources>
